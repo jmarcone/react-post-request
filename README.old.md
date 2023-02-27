@@ -6,20 +6,17 @@ We’ll be using JSON Placeholder, in this exercise. Your task? Create a form to
 
 Description
 - Level 1:
-  - Create a new post
-  - Display a list of posts
-
+-- Create a new post
+-- Display a list of posts
 
 - Level 2:
-   - Handle potential errors from the API
-   - Use a different HTTP client, maybe Axios
-
+-- Handle potential errors from the API
+-- Use a different HTTP client, maybe Axios
 
 - Level 3:
-   - Refactor to async/await
-
+-- Refactor to async/await
 
 - Useful Resources
-  - JSON Placeholder
-  - Using Fetch API
-  - Axios
+-- JSON Placeholder
+-- Using Fetch API
+-- Axios
